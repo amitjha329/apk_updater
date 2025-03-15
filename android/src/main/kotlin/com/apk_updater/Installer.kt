@@ -1,4 +1,4 @@
-package com.apk_updater
+package dev.yashjha.apk_updater
 
 import android.app.Activity
 import android.app.PendingIntent

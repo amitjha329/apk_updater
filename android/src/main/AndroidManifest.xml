@@ -1,3 +1,3 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.apk_updater">
+  package="dev.yashjha.apk_updater">
 </manifest>

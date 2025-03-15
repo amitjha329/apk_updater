@@ -1,4 +1,4 @@
-package com.apk_updater
+package dev.yashjha.apk_updater
 
 import io.flutter.plugin.common.MethodCall
 import io.flutter.plugin.common.MethodChannel

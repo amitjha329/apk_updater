@@ -1,4 +1,4 @@
-package com.apk_updater
+package dev.yashjha.apk_updater
 
 import android.annotation.TargetApi
 import android.app.Activity

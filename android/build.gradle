@@ -1,4 +1,4 @@
-group 'com.apk_updater'
+group 'dev.yashjha.apk_updater'
 version '1.0-SNAPSHOT'
 
 buildscript {
@@ -27,7 +27,7 @@ apply plugin: 'kotlin-android'
 android {
     compileSdkVersion 35
 
-    namespace = "com.apk_updater"
+    namespace = "dev.yashjha.apk_updater"
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8

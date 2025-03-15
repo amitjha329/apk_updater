@@ -1,4 +1,4 @@
-package com.apk_updater
+package dev.yashjha.apk_updater
 
 import io.flutter.embedding.engine.plugins.FlutterPlugin
 import io.flutter.embedding.engine.plugins.FlutterPlugin.FlutterPluginBinding
@@ -6,7 +6,7 @@ import io.flutter.embedding.engine.plugins.activity.ActivityAware
 import io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding
 import io.flutter.plugin.common.MethodChannel
 
-const val packageName = "com.apk_updater"
+const val packageName = "dev.yashjha.apk_updater"
 const val installStatusUnknown = -2
 var packageInstalledAction = "${packageName}.content.SESSION_API_PACKAGE_INSTALLED"
 
